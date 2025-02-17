@@ -52,7 +52,7 @@ If there is an error or no image is uploaded, the app will show an appropriate m
 https://github.com/user-attachments/assets/1ee6af87-c717-4d47-a27d-0b839504e360
 
 
-## Key Features & Benefits
+## Key Features
 
 ### Interactive and User-Friendly:
 
