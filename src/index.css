@@ -23,7 +23,7 @@ p {
 }
 
 .upload {
-  color: #6e1e81;
+  color: #ff6600;
 }
 
 .image-container {
@@ -46,7 +46,7 @@ p {
 
 .surprise {
   background-color: #ececf1;
-  color: #000;
+  color: #222020;
   border-radius: 5px;
   font-weight: 600;
   padding: 4px 12px;
@@ -59,7 +59,7 @@ p {
   display: flex;
   border-radius: 6px;
   overflow: hidden;
-  box-shadow: rgba(0,0,82, 0.15) 0 2px 4px;
+  box-shadow: rgba(0, 0, 82, 0.15) 0 2px 4px;
 }
 
 .input-container input {
@@ -81,8 +81,8 @@ p {
   min-width: 10%;
   border: none;
   border-left: 1px #cacaca solid;
-  background-color: #fff;
-  color: #777;
+  background-color: #ff6600;
+  color: #1c1111;
   font-weight: bold;
   cursor: pointer;
 }
@@ -102,7 +102,7 @@ p {
 }
 
 .answer {
-  box-shadow: rgba(0,0,82, 0.15) 0 2px 4px;
+  box-shadow: rgba(0, 0, 82, 0.15) 0 2px 4px;
   padding: 13px 14px;
   box-sizing: border-box;
   font-size: 15px;
