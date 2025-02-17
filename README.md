@@ -18,16 +18,17 @@ Install dependencies
 Run the Application
 
 `npm run start:frontent`
+
 `npm run start:backend`
 
 Visit the application at `http://localhost:3000` in your browser.
 The backend is running at `http://localhost:8000`.
 
 ## Technologies Used
-`React` The primary frontend library used for building dynamic user interfaces. React is responsible for managing the app's state and rendering content based on user interactions.
-`Express.js` A minimal backend framework that handles server-side logic. It receives the uploaded images from the frontend and communicates with the `OpenAI API` to generate responses.
-`OpenAI` The powerful AI model from OpenAI that analyzes images and generates meaningful answers to user questions.
-`Multer` A middleware for handling multipart/form-data, used for uploading files in Express.js. Multer handles the image upload process on the server.
+- `React` The primary frontend library used for building dynamic user interfaces. React is responsible for managing the app's state and rendering content based on user interactions.
+- `Express.js` A minimal backend framework that handles server-side logic. It receives the uploaded images from the frontend and communicates with the `OpenAI API` to generate responses.
+- `OpenAI` The powerful AI model from OpenAI that analyzes images and generates meaningful answers to user questions.
+- `Multer` A middleware for handling multipart/form-data, used for uploading files in Express.js. Multer handles the image upload process on the server.
 
 ## How It Works
 
