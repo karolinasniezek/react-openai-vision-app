@@ -48,6 +48,8 @@ The `Surprise Me` button in this application adds an element of fun and interact
 The app displays the response received from `OpenAI`.
 If there is an error or no image is uploaded, the app will show an appropriate message.
 
+https://github.com/user-attachments/assets/0f1e8713-4e2c-47ad-949b-fcfa099cf4b6
+
 ## Key Features & Benefits
 
 ### Interactive and User-Friendly:
