@@ -41,6 +41,8 @@ The user can type a question related to the uploaded image.
 The app sends the question and the image to the backend, which then forwards it to `OpenAI` for analysis.
 `OpenAI` processes the image and the question, generating a response.
 
+The `Surprise Me` button in this application adds an element of fun and interactivity by automatically generating a random question about the uploaded image.
+
 ### Response Generation
 
 The app displays the response received from `OpenAI`.
