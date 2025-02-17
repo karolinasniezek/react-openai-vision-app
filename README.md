@@ -33,6 +33,8 @@ The backend is running at `http://localhost:8000`.
 
 ### Upload an Image
 
+Users can upload an image.
+
 ### Ask a Question
 
 The user can type a question related to the uploaded image.
